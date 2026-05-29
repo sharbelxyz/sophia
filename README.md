@@ -14,11 +14,12 @@ She also has a **wife mode** (`/wife`) — pair her with one trusted person and 
 hermes skills install https://github.com/sharbelxyz/sophia
 ```
 
-**Or add it to your Skills Hub** so it shows up in `hermes skills browse` / `search` (and you get updates):
+**Or add it to your Skills Hub** so it shows up in `hermes skills browse` / `search`:
 
 ```
 hermes skills tap add sharbelxyz/sophia
-hermes skills install sharbelxyz/sophia/sophia
+hermes skills search sophia
+hermes skills install sophia
 ```
 
 Then, in your Telegram chat with your Hermes bot, just say:
