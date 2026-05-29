@@ -8,10 +8,17 @@ She also has a **wife mode** (`/wife`) — pair her with one trusted person and 
 
 ## Install
 
-In any Hermes session (CLI or a connected platform like Telegram):
+**Quickest — paste the repo link:**
 
 ```
 hermes skills install https://github.com/sharbelxyz/sophia
+```
+
+**Or add it to your Skills Hub** so it shows up in `hermes skills browse` / `search` (and you get updates):
+
+```
+hermes skills tap add sharbelxyz/sophia
+hermes skills install sharbelxyz/sophia/sophia
 ```
 
 Then, in your Telegram chat with your Hermes bot, just say:
